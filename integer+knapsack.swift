@@ -5,11 +5,11 @@
 //  Created by ggaamm on 8/24/20.
 //
 // integer knapsack
-// V, value
-// W, weight
+// v, value
+// w, weight
 // arr, memory
 // arr[i][j]= max(arr[i – 1][j], V[i] + arr[i – 1][j – W[i]]
-//
+// W, capacity
 
 var w = [2,1,3,2]
 var v = [12,10,20,15]
