@@ -8,7 +8,7 @@
 // v, value
 // w, weight
 // arr, memory
-// arr[i][j]= max(arr[i – 1][j], V[i] + arr[i – 1][j – W[i]]
+// arr[i][j]= max(arr[i – 1][j], v[i] + arr[i – 1][j – w[i]]
 // W, capacity
 
 var w = [2,1,3,2]
